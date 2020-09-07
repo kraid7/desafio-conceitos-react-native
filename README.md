@@ -2,7 +2,7 @@
 
 #### Proposta:
   Aplicar os conceitos aprendidos de React Native no app mobile.
-  Continuação do desenvolvimento da aplicação que armazena repositórios de portfólios dos últimos desafios de [Node.js](https://github.com/kraid7/gostack-template-conceitos-nodejs) e [ReactJS](https://github.com/kraid7/gostack-template-conceitos-nodejs).
+  Continuação do desenvolvimento da aplicação que armazena repositórios de portfólios dos últimos desafios de [Node.js](https://github.com/kraid7/gostack-template-conceitos-nodejs) e [ReactJS](https://github.com/kraid7/desafio-conceitos-reactjs).
   
 #### Ferramentas utilizadas
   React Native <br>
